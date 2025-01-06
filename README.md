@@ -13,4 +13,4 @@ A real data of the survey of data professionals collected by Alex the Analyst fr
 4. Work/Life balance of data professionals
 
 ## Dashboard
-[Data Dashboard]{}
+![Data Dashboard]{}
