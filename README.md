@@ -1,1 +1,1 @@
-# data_powerbi_project
+# PowerBI Project
