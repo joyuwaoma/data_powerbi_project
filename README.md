@@ -11,3 +11,6 @@ A real data of the survey of data professionals collected by Alex the Analyst fr
 2. Favorite programming language of data professionals
 3. Level of difficulty in breaking into data profession
 4. Work/Life balance of data professionals
+
+## Dashboard
+[Data Dashboard]{}
